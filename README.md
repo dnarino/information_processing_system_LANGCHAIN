@@ -40,4 +40,6 @@ The pipeline analyzes raw text through 3 independent execution steps:
         ]
     },
     "response": {
-        "response": "Thank you for sharing your experience. I'm truly sorry to hear about the issues you've encountered with your laptop, including the overheating and battery life.
+        "response": "Thank you for sharing your experience. I'm truly sorry to hear about the issues you've encountered with your laptop, including the overheating and battery life. I recommend reaching out to our customer support team for an immediate replacement..."
+    }
+}
